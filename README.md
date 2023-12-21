@@ -8,3 +8,5 @@ This tool managed to successfully detect and blur faces from the test.mp4 file b
 
 https://github.com/andresv1/BlurifyV1/assets/95900417/7a60ea57-40da-4ec2-99c0-94ef18242388
 
+The following versions of Blurify will ultizle faster and more accurate models of facial detection(CNNs, with a custom trained TensorFlow model) with implementaions of CUDA GPU acceleration
+
