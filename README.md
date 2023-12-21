@@ -6,5 +6,5 @@ This project is meant to ask the user for a video file input, detect faces withi
 
 This tool managed to successfully detect and blur faces from the test.mp4 file but failed to detect and blur faces from talking.mp4.
 
-https://github.com/andresv1/BlurifyV1/assets/95900417/d0d37585-55c2-41af-ab18-d8788f2290da
+https://github.com/andresv1/BlurifyV1/assets/95900417/7a60ea57-40da-4ec2-99c0-94ef18242388
 
