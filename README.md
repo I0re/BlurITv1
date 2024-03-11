@@ -1,4 +1,4 @@
-# Blurify
+# BlurITv1
 
 The First Version of the Blurify Project (Basic OpenCV Implementation for Computer Vision Using Haarcasade Models for Facial Detection)
 
