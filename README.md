@@ -10,3 +10,6 @@ https://github.com/andresv1/BlurifyV1/assets/95900417/7a60ea57-40da-4ec2-99c0-94
 
 The following versions of BlurIT will implement faster and more accurate models of facial detection (CNNs with a custom-trained TensorFlow model) with implementations of CUDA GPU acceleration.
 
+BlurIT has a version 2 https://github.com/I0re/BlurIT!
+
+In order to build you must link opencv to the project.
